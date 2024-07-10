@@ -7,3 +7,4 @@ pycrypto #  for miio-extract-tokens
 attrs
 typing  # for py3.4 support
 pytz  # for tz offset in vacuum
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
